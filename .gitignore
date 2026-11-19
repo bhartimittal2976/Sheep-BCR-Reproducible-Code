@@ -1,0 +1,8 @@
+data/
+results/
+*.fastq
+*.fastq.gz
+*.fasta
+*.fa
+__pycache__/
+.DS_Store

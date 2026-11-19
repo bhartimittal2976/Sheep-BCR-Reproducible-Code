@@ -1,0 +1,7 @@
+run,fastqs,sample_prefix
+PUR1,/path/to/seq1/PUR1_fastqs,PUR1
+PUR2,/path/to/seq1/PUR2_fastqs,PUR2
+1G,/path/to/seq2/G1_fastqs,G1
+1M,/path/to/seq2/M1_fastqs,M1
+2G,/path/to/seq2/G2_fastqs,G2
+2M,/path/to/seq2/M2_fastqs,M2

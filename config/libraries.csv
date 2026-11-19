@@ -1,0 +1,7 @@
+run,sample,stage,contigs
+PUR1,sample1,seq1,data/PUR1.csv
+PUR2,sample2,seq1,data/PUR2.csv
+1G,sample1,seq2,data/1G.csv
+1M,sample1,seq2,data/1M.csv
+2G,sample2,seq2,data/2G.csv
+2M,sample2,seq2,data/2M.csv
